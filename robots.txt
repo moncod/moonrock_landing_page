@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://moncod.github.io/moonrock_landing_page/sitemap.xml
